@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhorangic
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning how RetinaNet works
+- 🌱 I’m currently learning how UNet works
 - 💞️ I’m looking to collaborate on deep learning applications in astrophysics
 - 📫 How to reach me: dianahorangic@gmail.com
